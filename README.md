@@ -22,7 +22,7 @@ Passionate about technology, coding, and coffee ☕
 <a href="https://wa.me/5511990274243"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:thluzbs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Thanks for visiting my profile!
+- Thanks for visiting!
 
 </td>
     <td align="center">
