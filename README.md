@@ -3,16 +3,22 @@
     <td>
 
 ### Welcome! 🧑‍💻
-<hr style="border: 1px solid #ccc;">
+
 ### I'm Thiago! 🧑‍💻
-<hr style="border: 1px solid #ccc;">
+
 Full Stack Developer focused on **PHP** | **Laravel** | **Vue.js**
 Passionate about technology, coding, and coffee ☕
 
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+</div>
+
 #### About me:
-<hr style="border: 1px solid #ccc;">
+
 <a href="https://github.com/ThLuz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/thiago-luz-6214231a7/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thiago-luz-6214231a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.me/5511990274243"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:thluzbs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
