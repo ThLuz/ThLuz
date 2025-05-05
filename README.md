@@ -3,13 +3,14 @@
     <td>
 
 ### Welcome! 🧑‍💻
----
+<hr style="border: 1px solid #ccc;">
 ### I'm Thiago! 🧑‍💻
----
+<hr style="border: 1px solid #ccc;">
 Full Stack Developer focused on **PHP** | **Laravel** | **Vue.js**
 Passionate about technology, coding, and coffee ☕
 
 #### About me:
+<hr style="border: 1px solid #ccc;">
 <a href="https://github.com/ThLuz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/thiago-luz-6214231a7/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.me/5511990274243"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
