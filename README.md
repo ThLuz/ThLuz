@@ -1,5 +1,3 @@
-<h1 align="center">Bem-vindo! 👋</h1>
-
 <table>
   <tr>
     <td>
