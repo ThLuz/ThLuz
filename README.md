@@ -27,7 +27,7 @@ Amante de integrações, automações e café ☕
 
 </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="250px" alt="Panda acenando" />
+      <img src="https://giphy.com/gifs/youtube-best-seriously-1kkxWqT5nvLXupUTwK" width="250px" alt="Panda acenando" />
     </td>
   </tr>
 </table>
