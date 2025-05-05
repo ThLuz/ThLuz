@@ -2,11 +2,9 @@
   <tr>
     <td>
 
-### Welcome! 🧑‍💻
-
-### I'm Thiago! 🧑‍💻
-
-Full Stack Developer focused on **PHP** | **Laravel** | **Vue.js**
+### Welcome, I'm Thiago! 🧑‍💻
+---
+Full Stack Developer focused on **PHP** | **Laravel** | **Vue.js** <br>
 Passionate about technology, coding, and coffee ☕
 
 <div style="display: flex; gap: 10px;">
@@ -14,7 +12,7 @@ Passionate about technology, coding, and coffee ☕
   <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 </div>
-
+---
 #### About me:
 
 <a href="https://github.com/ThLuz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
