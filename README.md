@@ -3,7 +3,6 @@
     <td>
 
 ### Welcome, I'm Thiago! 🧑‍💻
-<hr>
 
 Full Stack Developer focused on **PHP** | **Laravel** | **Vue.js** <br>
 Passionate about technology, coding, and coffee ☕
