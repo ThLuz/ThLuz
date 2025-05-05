@@ -3,7 +3,8 @@
     <td>
 
 ### Welcome, I'm Thiago! 🧑‍💻
----
+<hr>
+
 Full Stack Developer focused on **PHP** | **Laravel** | **Vue.js** <br>
 Passionate about technology, coding, and coffee ☕
 
@@ -12,7 +13,9 @@ Passionate about technology, coding, and coffee ☕
   <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 </div>
----
+
+<hr>
+
 #### About me:
 
 <a href="https://github.com/ThLuz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
