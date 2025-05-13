@@ -27,7 +27,7 @@ Passionate about technology, coding and coffee ☕
 
 </td>
     <td align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGozdGlnNHBkMTltb2U2d3hiZDBham1pOGxsYzMxZ3hzNHNtNHB5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="310px" alt="Dog studying" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGozdGlnNHBkMTltb2U2d3hiZDBham1pOGxsYzMxZ3hzNHNtNHB5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="280px" alt="Dog studying" />
     </td>
   </tr>
 </table>
