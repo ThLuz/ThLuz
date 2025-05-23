@@ -5,7 +5,7 @@
 ### Welcome, I'm Thiago! 🧑‍💻
 
 Full Stack Developer focused on **PHP** | **Laravel** | **Vue.js** <br>
-Passionate about technology, coding and coffee ☕
+Passionate about technology, coding and coffee. ☕
 
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
